@@ -1,0 +1,26 @@
+.catImage {
+    width: 400px;
+    height: 400px;
+}
+.catButton {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 0.6rem solid black;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.catButton:hover {background-color:gray}
+
+.catButton:active {
+  background-color:gray;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+           
+}
